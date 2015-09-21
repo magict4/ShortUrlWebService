@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="ShortUrlWebService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ShortUrlWebService.war">
+      <element id="artifact" artifact-name="ShortUrlWebService:war exploded" />
+    </root>
+  </artifact>
+</component>
